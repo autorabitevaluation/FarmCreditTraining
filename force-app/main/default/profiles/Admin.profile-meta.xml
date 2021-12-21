@@ -265,6 +265,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>Account.FCMA_TEST__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>Account.FCMA_Training__c</field>
         <readable>true</readable>
     </fieldPermissions>
