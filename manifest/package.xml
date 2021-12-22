@@ -193,6 +193,8 @@
         <members>Account.ChannelProgramLevelName</members>
         <members>Account.ChannelProgramName</members>
         <members>Account.Description</members>
+        <members>Account.FCMA_TEST__c</members>
+        <members>Account.FCMA_Training__c</members>
         <members>Account.Fax</members>
         <members>Account.Industry</members>
         <members>Account.Integration_Source__c</members>
